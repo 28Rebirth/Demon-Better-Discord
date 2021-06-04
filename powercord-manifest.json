@@ -1,0 +1,8 @@
+{
+    "name": "Demon",
+    "description": "A Customizable theme for BetterDiscord and Lightcord.",
+    "version": "1.0.0",
+    "author": "28Rebirth#8093",
+    "theme": "Demon.theme.css",
+    "license": "Apache-2.0"
+}
